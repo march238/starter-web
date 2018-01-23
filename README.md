@@ -20,4 +20,4 @@ contribute
 whacha doin monn?
 
 ### Copyright
-2018 git.training
+2018 git.training All rights reserved
