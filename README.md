@@ -16,7 +16,7 @@ Sample website with plenty of files for demos
 Contribute
 =======
 contribute
->>>>>>> 792ea2f8606b64a98fd4dcc06c5cabf0d5890c8f
+whacha doin monn?
 
 ### Copyright
 2018 git.training
