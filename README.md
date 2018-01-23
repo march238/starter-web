@@ -11,5 +11,9 @@ This is an intro
 Sample website with plenty of files for demos
 
 ## How To Contribute
+<<<<<<< HEAD
 
 Contribute
+=======
+contribute
+>>>>>>> 792ea2f8606b64a98fd4dcc06c5cabf0d5890c8f
