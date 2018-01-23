@@ -17,3 +17,6 @@ Contribute
 =======
 contribute
 >>>>>>> 792ea2f8606b64a98fd4dcc06c5cabf0d5890c8f
+
+### Copyright
+2018 git.training
